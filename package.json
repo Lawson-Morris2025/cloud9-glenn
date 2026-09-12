@@ -1,0 +1,17 @@
+{
+  "name": "cloud9-glenn-bot",
+  "version": "1.0.0",
+  "description": "A Superstore-themed Discord bot featuring Glenn Sturgis for automated server building and interactive member management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
